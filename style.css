@@ -1,0 +1,13 @@
+body{
+    background-image: url(./images/back.png);
+    font-family: "StratosSkyeng", sans-serif;
+    background-repeat: no-repeat;
+    margin: 0;
+}
+
+.header{
+    background-image: url(./images/head.png);
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-position: center;
+}

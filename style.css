@@ -17,6 +17,7 @@ body{
 .content{
     padding-top: 75px;
     border-top: 25px solid brown;
+    position: relative;
 }
 
 table{
@@ -42,4 +43,16 @@ p{
     border-radius: 25px;
     padding: 10px 30px;
     margin: 23px auto;
+}
+a{
+    display: block;
+    background-color: #894AFF;
+    color: white;
+    padding: 11px 30px;
+    border-radius: 50px;
+    font-size: 30px;
+    text-decoration: underline;
+    position: absolute;
+    bottom: 75px;
+    right: 80px;
 }

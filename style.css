@@ -4,7 +4,7 @@ body{
     background-repeat: no-repeat;
     background-position: bottom;
     margin: 0;
-    
+    scroll-behavior: smooth;
 }
 
 .header{
@@ -12,6 +12,7 @@ body{
     height: 100vh;
     background-repeat: no-repeat;
     background-position: center;
+    background-attachment: fixed;
 }
 
 .content{
@@ -20,7 +21,7 @@ body{
     position: relative;
 }
 
-table{
+#table{
     width: 1200px;
     height: 100vh;
     border-collapse: collapse;
